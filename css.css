@@ -1,0 +1,44 @@
+body
+{
+    background-color: rgb(188, 249, 106) ;
+}
+
+h1
+{
+font-size: 35px;
+width: 42%;
+border-radius: 10px;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 900;
+background-color: rgb(154, 210, 82);
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    border-color: rgb(154, 210, 82);
+    border-width: 15px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#Start
+{
+    position: absolute;
+    bottom: 65px;
+    right: 606px;
+    font-size: 15px;
+    width: 65px;
+    height: 25px;
+    border-radius: 10px;
+    border-color: #9ad252;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    background-color: #9ad252;
+}
+
+
